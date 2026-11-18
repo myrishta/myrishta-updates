@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.364",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.364/myrishta-seo-helper-3.101.364.zip",
-        "sha256": "e7bbd8e7a61387a912ce5414344f2c26176367950b02597bbf021003729c7bfd",
-        "sig": "eppuY+G/7/F+cpfPJHGWsYGg5krCT+0MXryFr9++p4Zyw93bIQ6y67ZS8V7wLEjEcL8Yki/EN6gr/yedCY4QAg==",
-        "notes": "Log out works even when the page was cached. PHP version header hidden. Theme description fixed."
+        "version": "3.101.365",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.365/myrishta-seo-helper-3.101.365.zip",
+        "sha256": "700fff6ee64152ad4725f10fb40978c4dfe11329af35c462466f2aefc41dc0f7",
+        "sig": "YP1W3ydZjQ5WVKtiNzzMKFr96zfRSIRoz8aroaRW2hWctaZcAgqzGlfT1E7R4pRHeXnhijc63Ixpg6R4tugwBQ==",
+        "notes": "Fix: the updater now refreshes WordPress's update list before installing, and says why if an install fails. Includes reliable log out."
     },
     "theme": {
-        "version": "3.101.364",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.364/myrishta-theme-3.101.364.zip",
-        "sha256": "4ea168ca41e4ae676f85be8ecd99b09a09a3d510064f44438bbed6e5a9907ece",
-        "sig": "vc/yQX1cNlPycFWHpVp6ZEMSyqsx94bwAPGAoWpn/7lg4QLKNBErhQKmhQyf8TfzrVXCeCYry0EasRj1EORHBA==",
-        "notes": "Log out works even when the page was cached. PHP version header hidden. Theme description fixed."
+        "version": "3.101.365",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.365/myrishta-theme-3.101.365.zip",
+        "sha256": "af5fcbe999e8a6815530fc130800829907ca8e35440fc82297929aa982495ce9",
+        "sig": "ttOOK/z3Q5ieATrKIOuNaMivbV3GelgqEUbZtFSGgXyglISsC1W1H96C42WaAHrQhsL0GH87/0h4QvaByLWvCw==",
+        "notes": "Fix: the updater now refreshes WordPress's update list before installing, and says why if an install fails. Includes reliable log out."
     }
 }
