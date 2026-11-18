@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.360",
-        "zip": "https://github.com/myrishta/myrishta-updates/releases/download/v3.101.360/myrishta-seo-helper-3.101.360.zip",
-        "sha256": "dc85a568aa2da79173bec318d39e4509b0249c93de4026bebacbe7385144dfe3",
-        "sig": "Yav5hLK09+tHn+d5ko0aVCW+wvi7qpETYbXsM5r1LWLvUKHPwCt+4s/oZi100WtAKWVib1Dr0saLq8EXiVswCw==",
-        "notes": "Auto updater"
+        "version": "3.101.361",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.361/myrishta-seo-helper-3.101.361.zip",
+        "sha256": "2353caa7bbbc538a47981941e9933b215fef5050e85324dfb933986dbb2f3202",
+        "sig": "E+VbkuAFyG9vCfMXtXg+gEMxr+6xFrZeqxD8Viv4g+VXEsjLvLwd/f3lCwbacViFG0YSBo0FJE6Q1OOgMi+uAg==",
+        "notes": "License gate added."
     },
     "theme": {
-        "version": "3.101.360",
-        "zip": "https://github.com/myrishta/myrishta-updates/releases/download/v3.101.360/myrishta-theme-3.101.360.zip",
-        "sha256": "6841fb48fb52334d94681c3d17fbf76b043fb7b86c173db3afd7cb9241353668",
-        "sig": "AbDhryYfX8kgjJO14vkGMwPEjnY1pHPuSoI4KNsYl2tU71gdwhtjFPK9tde6yU79WNr3WuPxaZZpR+AdiKsfBA==",
-        "notes": "Auto updater"
+        "version": "3.101.361",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.361/myrishta-theme-3.101.361.zip",
+        "sha256": "398669fffe8fe63cea2168672286d085eafb414ef11747f1bd3a172ac0b4a929",
+        "sig": "QAxT6rjQRcjHPW1VZIjgaqkTrW0rorl0Ds8R+gBWUdALDgayTwmcI1y2U+diWLdcMhfwMuWzunqB/2rPDhc/BA==",
+        "notes": "License gate added."
     }
 }
