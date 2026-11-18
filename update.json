@@ -1,0 +1,16 @@
+{
+    "plugin": {
+        "version": "3.101.360",
+        "zip": "https://github.com/myrishta/myrishta-updates/releases/download/v3.101.360/myrishta-seo-helper-3.101.360.zip",
+        "sha256": "dc85a568aa2da79173bec318d39e4509b0249c93de4026bebacbe7385144dfe3",
+        "sig": "Yav5hLK09+tHn+d5ko0aVCW+wvi7qpETYbXsM5r1LWLvUKHPwCt+4s/oZi100WtAKWVib1Dr0saLq8EXiVswCw==",
+        "notes": "Auto updater"
+    },
+    "theme": {
+        "version": "3.101.360",
+        "zip": "https://github.com/myrishta/myrishta-updates/releases/download/v3.101.360/myrishta-theme-3.101.360.zip",
+        "sha256": "6841fb48fb52334d94681c3d17fbf76b043fb7b86c173db3afd7cb9241353668",
+        "sig": "AbDhryYfX8kgjJO14vkGMwPEjnY1pHPuSoI4KNsYl2tU71gdwhtjFPK9tde6yU79WNr3WuPxaZZpR+AdiKsfBA==",
+        "notes": "Auto updater"
+    }
+}
