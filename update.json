@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.361",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.361/myrishta-seo-helper-3.101.361.zip",
-        "sha256": "2353caa7bbbc538a47981941e9933b215fef5050e85324dfb933986dbb2f3202",
-        "sig": "E+VbkuAFyG9vCfMXtXg+gEMxr+6xFrZeqxD8Viv4g+VXEsjLvLwd/f3lCwbacViFG0YSBo0FJE6Q1OOgMi+uAg==",
-        "notes": "License gate added."
+        "version": "3.101.362",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.362/myrishta-seo-helper-3.101.362.zip",
+        "sha256": "38b71fc7691f6439f0fcc6eb23c9681f801923cd31cf2f5bf20688f13fc89dfd",
+        "sig": "AOkLaYF5P60PoBJryq22KJ1K2nfyWwB3ScCBeTullKYS/W9JXFTI3ks02gomPiOvXyiAHxQyhtfr9WytS1BCBg==",
+        "notes": "New setting: how many old versions to keep after an update (None deletes them automatically)."
     },
     "theme": {
-        "version": "3.101.361",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.361/myrishta-theme-3.101.361.zip",
-        "sha256": "398669fffe8fe63cea2168672286d085eafb414ef11747f1bd3a172ac0b4a929",
-        "sig": "QAxT6rjQRcjHPW1VZIjgaqkTrW0rorl0Ds8R+gBWUdALDgayTwmcI1y2U+diWLdcMhfwMuWzunqB/2rPDhc/BA==",
-        "notes": "License gate added."
+        "version": "3.101.362",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.362/myrishta-theme-3.101.362.zip",
+        "sha256": "1691346cc7c88bff748506f4c80d06d366aa4278a629639c36393d101a1aaf12",
+        "sig": "7wi7X8kbK02S8u7sk7SXqrOMratEL2aQfRni320ODcFNF7Gvs1sV5V9abPVAkGxGBTnNxUCsfIXAZw+g0ccrBg==",
+        "notes": "New setting: how many old versions to keep after an update (None deletes them automatically)."
     }
 }
