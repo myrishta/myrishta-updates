@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.365",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.365/myrishta-seo-helper-3.101.365.zip",
-        "sha256": "700fff6ee64152ad4725f10fb40978c4dfe11329af35c462466f2aefc41dc0f7",
-        "sig": "YP1W3ydZjQ5WVKtiNzzMKFr96zfRSIRoz8aroaRW2hWctaZcAgqzGlfT1E7R4pRHeXnhijc63Ixpg6R4tugwBQ==",
-        "notes": "Fix: the updater now refreshes WordPress's update list before installing, and says why if an install fails. Includes reliable log out."
+        "version": "3.101.366",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.366/myrishta-seo-helper-3.101.366.zip",
+        "sha256": "c0a1854f5857a19f7120fbd02c73188ca1a5be59a93ed4190aaf07c7e20ecd5e",
+        "sig": "+tn+vuVJ6+UFAgyDajs/LY855PZWCm2vnsmx9fDBLjXIfOIIX5pwgUT0eMY32oj3T9TpDGbunfB5UOvVs9L8Cg==",
+        "notes": "Interface polish: clean profile-card badges, readable card text, icons on phones, calmer photo placeholders, tidier membership prices, one Google button on the login page."
     },
     "theme": {
-        "version": "3.101.365",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.365/myrishta-theme-3.101.365.zip",
-        "sha256": "af5fcbe999e8a6815530fc130800829907ca8e35440fc82297929aa982495ce9",
-        "sig": "ttOOK/z3Q5ieATrKIOuNaMivbV3GelgqEUbZtFSGgXyglISsC1W1H96C42WaAHrQhsL0GH87/0h4QvaByLWvCw==",
-        "notes": "Fix: the updater now refreshes WordPress's update list before installing, and says why if an install fails. Includes reliable log out."
+        "version": "3.101.366",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.366/myrishta-theme-3.101.366.zip",
+        "sha256": "008ab88f64c24e9a562ad7446a388b30b41bf777ed2e69af1e42a6b5ed4ffe3b",
+        "sig": "xEZqzqPKTEgWLvPiEq+DcU0Bvv8uUAY9JqdSt1qPV7n3SvNTnvC2XauFxaZ6OUKniggl/FGB7u031hWa2Xr8AQ==",
+        "notes": "Interface polish: clean profile-card badges, readable card text, icons on phones, calmer photo placeholders, tidier membership prices, one Google button on the login page."
     }
 }
