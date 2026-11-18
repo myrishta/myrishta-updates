@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.366",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.366/myrishta-seo-helper-3.101.366.zip",
-        "sha256": "c0a1854f5857a19f7120fbd02c73188ca1a5be59a93ed4190aaf07c7e20ecd5e",
-        "sig": "+tn+vuVJ6+UFAgyDajs/LY855PZWCm2vnsmx9fDBLjXIfOIIX5pwgUT0eMY32oj3T9TpDGbunfB5UOvVs9L8Cg==",
-        "notes": "Interface polish: clean profile-card badges, readable card text, icons on phones, calmer photo placeholders, tidier membership prices, one Google button on the login page."
+        "version": "3.101.367",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.367/myrishta-seo-helper-3.101.367.zip",
+        "sha256": "0cbd19f80199651d708bbe308e2bde03c9e7ba2c5f1b63e171d2e242dc40fc35",
+        "sig": "1EHn7NbYSuAp/yawmTLBFmp2/BGWNf94u6XAKqW31r18rWwVGwmKUoz0vE13pVa28kx9omwgmBx6rNH9+U4RDw==",
+        "notes": "Member area polish: duplicate cards removed, tidier lists, clearer text."
     },
     "theme": {
-        "version": "3.101.366",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.366/myrishta-theme-3.101.366.zip",
-        "sha256": "008ab88f64c24e9a562ad7446a388b30b41bf777ed2e69af1e42a6b5ed4ffe3b",
-        "sig": "xEZqzqPKTEgWLvPiEq+DcU0Bvv8uUAY9JqdSt1qPV7n3SvNTnvC2XauFxaZ6OUKniggl/FGB7u031hWa2Xr8AQ==",
-        "notes": "Interface polish: clean profile-card badges, readable card text, icons on phones, calmer photo placeholders, tidier membership prices, one Google button on the login page."
+        "version": "3.101.367",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.367/myrishta-theme-3.101.367.zip",
+        "sha256": "cca23cfa8bf18b7ccc90c50637d6b74a964dc45611051af149d808e2bd57ec37",
+        "sig": "xK/9Uu9BbeERb6Xz1a49U0UH+C4oNhNw8J++17NIjW3j41K8sdykKSbeLfH6kfnpVrjevPhXPBHbyyd0Fl5JCQ==",
+        "notes": "Member area polish: duplicate cards removed, tidier lists, clearer text."
     }
 }
