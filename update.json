@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.362",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.362/myrishta-seo-helper-3.101.362.zip",
-        "sha256": "38b71fc7691f6439f0fcc6eb23c9681f801923cd31cf2f5bf20688f13fc89dfd",
-        "sig": "AOkLaYF5P60PoBJryq22KJ1K2nfyWwB3ScCBeTullKYS/W9JXFTI3ks02gomPiOvXyiAHxQyhtfr9WytS1BCBg==",
-        "notes": "New setting: how many old versions to keep after an update (None deletes them automatically)."
+        "version": "3.101.364",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.364/myrishta-seo-helper-3.101.364.zip",
+        "sha256": "e7bbd8e7a61387a912ce5414344f2c26176367950b02597bbf021003729c7bfd",
+        "sig": "eppuY+G/7/F+cpfPJHGWsYGg5krCT+0MXryFr9++p4Zyw93bIQ6y67ZS8V7wLEjEcL8Yki/EN6gr/yedCY4QAg==",
+        "notes": "Log out works even when the page was cached. PHP version header hidden. Theme description fixed."
     },
     "theme": {
-        "version": "3.101.362",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.362/myrishta-theme-3.101.362.zip",
-        "sha256": "1691346cc7c88bff748506f4c80d06d366aa4278a629639c36393d101a1aaf12",
-        "sig": "7wi7X8kbK02S8u7sk7SXqrOMratEL2aQfRni320ODcFNF7Gvs1sV5V9abPVAkGxGBTnNxUCsfIXAZw+g0ccrBg==",
-        "notes": "New setting: how many old versions to keep after an update (None deletes them automatically)."
+        "version": "3.101.364",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.364/myrishta-theme-3.101.364.zip",
+        "sha256": "4ea168ca41e4ae676f85be8ecd99b09a09a3d510064f44438bbed6e5a9907ece",
+        "sig": "vc/yQX1cNlPycFWHpVp6ZEMSyqsx94bwAPGAoWpn/7lg4QLKNBErhQKmhQyf8TfzrVXCeCYry0EasRj1EORHBA==",
+        "notes": "Log out works even when the page was cached. PHP version header hidden. Theme description fixed."
     }
 }
