@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.368",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.368/myrishta-seo-helper-3.101.368.zip",
-        "sha256": "e97a191574891c82ef66414c378b3b9bc498074027e08a7b7c67c9eec8ba2dd3",
-        "sig": "6+W8d2GeuL/yQ0eZU5Kf67lGZXlhne1pEhqgwUhKeFEc9n1bRRFQ3w07uH/O9p7NsSkQCVGDF0/TSksT7LvRCw==",
-        "notes": "Clear success and error messages when a member changes password or other settings."
+        "version": "3.101.369",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.369/myrishta-seo-helper-3.101.369.zip",
+        "sha256": "c14273468d8bcc215ab665c143cd50bb0a64e14c4fb11da420590424910379b2",
+        "sig": "Lg4OjnK0a3z1B12NHf2SF+MiJAmyN99x0e4FENYy8QalZSPAj0t/yQWhGY0LegMVYWeGeUwq1wsMQvJK5fvqCQ==",
+        "notes": "Contact page: more help text for families."
     },
     "theme": {
-        "version": "3.101.368",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.368/myrishta-theme-3.101.368.zip",
-        "sha256": "27e60b612b5d96df791274d577cb56cbb7ffbaf69d2bff835de6949033d668aa",
-        "sig": "JCZi6kZaE58WqK3fZAqTAqZtlfJlOjmc8ckmZfW7pnPYkPO1eSJNXyxIfCvfPZsjUdu8y/USqgdJOdq1EFtQCQ==",
-        "notes": "Clear success and error messages when a member changes password or other settings."
+        "version": "3.101.369",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.369/myrishta-theme-3.101.369.zip",
+        "sha256": "ad641d873b4233fe82a068f1c4fc1900e1b8452980dfcef5318282b9c8116b49",
+        "sig": "Gb3a473obH/OavBaSeP/jzteKYkV2kWkIgdrkRtAUbnb6oTs+5qCJzd9ZInSJxjvv7GkgzpXB4g49MwyFlfrAA==",
+        "notes": "Contact page: more help text for families."
     }
 }
