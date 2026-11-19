@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.378",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.378/myrishta-seo-helper-3.101.378.zip",
-        "sha256": "eb1fb85fd996f488b7945d3a8fdea8d56b1c8ed65be1228bce66448784b11cd4",
-        "sig": "+IJDmWqR+E8EnzynAjdxjN5pOTgK17IhdPjOBhRSnehAsZix+f8b5IBL4UR+18I3DaLikzQEjIi2pBxBUyEDCQ==",
-        "notes": "Website keys: every Google key with a known shape is protected from wrong values."
+        "version": "3.101.379",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.379/myrishta-seo-helper-3.101.379.zip",
+        "sha256": "a810f88a54b1547077b63626d7f6d64dedec3aaf40e9864f26ac3930dbfce219",
+        "sig": "qqIOLW0/wQ260xqQPghkCvFXNUVcjtBQCbGBVyenSWz+NmUb2ZTthIfdeZ3vWzSr5lOkjXu6SRUY12TMuq1XDQ==",
+        "notes": "Two-step login: a double send of the code no longer says expired."
     },
     "theme": {
-        "version": "3.101.378",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.378/myrishta-theme-3.101.378.zip",
-        "sha256": "3307f6b28164143829b3dcfdb362913bcc399d28e2e2e4446c834fcc584849b4",
-        "sig": "XjjcC8pwoMcDSjs30CRONxBfFJvMQIOpui297Lk5UE3BT8jkE+VquQQyxci4gkaVrupcvv2DAYK+3tezvucpAw==",
-        "notes": "Website keys: every Google key with a known shape is protected from wrong values."
+        "version": "3.101.379",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.379/myrishta-theme-3.101.379.zip",
+        "sha256": "6b563406b26d45f213e1bb55e6dcf9088887860914c128a35af75a39af695723",
+        "sig": "fFWFe69MynYLAAVlzbpfXOfXYWBi6qxRSXUpqEfvwbMGllXRvRYdlIWEnqMiTu5giTxCZAHUC53RT6zag+2MAg==",
+        "notes": "Two-step login: a double send of the code no longer says expired."
     }
 }
