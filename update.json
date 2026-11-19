@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.377",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.377/myrishta-seo-helper-3.101.377.zip",
-        "sha256": "9f6df0f87b6cc3ae5213260946fa163eca782b1863ac5710a78be9b400a4dde3",
-        "sig": "uhpZPhgf3Whu95yqAKCxRryXiApV71AQZyhWDp/bs+k1oADLrzKUlNb0t1f3SSWCGHMllTV6Z0msiFg7hV2SAQ==",
-        "notes": "Website keys: browsers can no longer fill in a login password, and malformed keys never replace a working one."
+        "version": "3.101.378",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.378/myrishta-seo-helper-3.101.378.zip",
+        "sha256": "eb1fb85fd996f488b7945d3a8fdea8d56b1c8ed65be1228bce66448784b11cd4",
+        "sig": "+IJDmWqR+E8EnzynAjdxjN5pOTgK17IhdPjOBhRSnehAsZix+f8b5IBL4UR+18I3DaLikzQEjIi2pBxBUyEDCQ==",
+        "notes": "Website keys: every Google key with a known shape is protected from wrong values."
     },
     "theme": {
-        "version": "3.101.377",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.377/myrishta-theme-3.101.377.zip",
-        "sha256": "b802a7545cea9c4c97f90b786f521a45462cb52dbd2da0bdb7b2a6a6c2f760c5",
-        "sig": "2sspuNpU6Ct2bHKKlrRx2mKtNgzyPbBUSSk7+PXRJNkC+yJNQ9NRtnjar5t/+jZw/wYTxy2p1T2IoB7SeWH0AA==",
-        "notes": "Website keys: browsers can no longer fill in a login password, and malformed keys never replace a working one."
+        "version": "3.101.378",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.378/myrishta-theme-3.101.378.zip",
+        "sha256": "3307f6b28164143829b3dcfdb362913bcc399d28e2e2e4446c834fcc584849b4",
+        "sig": "XjjcC8pwoMcDSjs30CRONxBfFJvMQIOpui297Lk5UE3BT8jkE+VquQQyxci4gkaVrupcvv2DAYK+3tezvucpAw==",
+        "notes": "Website keys: every Google key with a known shape is protected from wrong values."
     }
 }
