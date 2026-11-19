@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.371",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.371/myrishta-seo-helper-3.101.371.zip",
-        "sha256": "d93b9139b56903b6df4bb6d7728479f6b6e9c493042bf4d33edd40b4c1197ed5",
-        "sig": "MKhrrt7Fse6ZTjPBaCjN5Sh5ssMuUIWUOQa3xlDVXxWvC2C3vGB3/FdWhR1YCqcqSTOCdB1B80+i3eX8Tb/SCw==",
-        "notes": "Keyword robot now reads Google suggestions daily and adds safe rishta phrases."
+        "version": "3.101.372",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.372/myrishta-seo-helper-3.101.372.zip",
+        "sha256": "97a8fe46caef959c6096c76ae20c0a9de0b3066d79f82c639d20a5832ccd0675",
+        "sig": "aVSfmfjZEFk54PbZWLs6NpmIKnGDiNwtdDisOm5am+hYhIPdruiBETb6vfhN4LAcJ45SuqNvbBjBqhrD7xEGBg==",
+        "notes": "Google phrase scan skips other websites' names."
     },
     "theme": {
-        "version": "3.101.371",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.371/myrishta-theme-3.101.371.zip",
-        "sha256": "cfe770b3ef44ca3036006766f7703e18df9e033bc97f8e96a9de2289f9594eb9",
-        "sig": "yOqQ+qbxMwvHPXBl8hT7Gp1bYAzAnbcW/uzPXfzuOj9ox8vkerxBwPcp4CjVlLA887foaJ6+UZaC6gDPEhoEAw==",
-        "notes": "Keyword robot now reads Google suggestions daily and adds safe rishta phrases."
+        "version": "3.101.372",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.372/myrishta-theme-3.101.372.zip",
+        "sha256": "9dc3188acd0978bf8460327765982289b59cbb0fb883803b045185c52128635d",
+        "sig": "PEiiLMxTHHKvivHF3LpGV7RngsnrvXfiZHtEUUMJpk8owrC+1INW1DPUPddMwPagcFJMaSY3MmtwsnGlsG2dBQ==",
+        "notes": "Google phrase scan skips other websites' names."
     }
 }
