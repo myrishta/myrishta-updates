@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.382",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.382/myrishta-seo-helper-3.101.382.zip",
-        "sha256": "54c1ce8cb408f414feb47c9a92172268ae338a7b42ce40034fc120e16f734bfb",
-        "sig": "ViOf+Cgcy1DPpNROaxlb5G+9ZAqUgk4XDiitjC/2npE+DJow0BbuPhkgcyO9akh8XWmI6gZ6LdDxCGqbrfKOAQ==",
-        "notes": "Quick find: search box in the admin top bar to jump to any screen by name."
+        "version": "3.101.383",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.383/myrishta-seo-helper-3.101.383.zip",
+        "sha256": "ca37d188dd113aded7246b230d1458c356ea3ef00041cc822bb447a5a6ffb776",
+        "sig": "T6rK14iudi0sdQZfgmLI7I2vSdDxrmBVUMVOEYD7MMRsohq5RSNcepOIKXtyrVVW8gr4ttG16nwIbIX+r9q6DA==",
+        "notes": "Page Optimizer: reads the full page text and skips member tool pages, so only real content issues show."
     },
     "theme": {
-        "version": "3.101.382",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.382/myrishta-theme-3.101.382.zip",
-        "sha256": "a94d6317b9bf081f1d18091bdf6d549661faa1a99a364fbb1ee9e129325ff781",
-        "sig": "EIOz1HWW2AuLGMybDwhxkYDIqCz9srVrZvkXmxVPs6KOsa9Bi+ccXIfB1xhygYmZzEdRx3U4VOQjNfHs1gmmAg==",
-        "notes": "Quick find: search box in the admin top bar to jump to any screen by name."
+        "version": "3.101.383",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.383/myrishta-theme-3.101.383.zip",
+        "sha256": "dc81e08bb70cc1edd3e866c7a4ffc900bb39d4fa38ae48d5dbfd50a37c94eb3a",
+        "sig": "4bNnTCBE8Ucc33UiMHJ7LHY+geT1YXi/uTuNEpAWdEGmei9dvNH+q0DPhw4nwRAq0ShiuyYAOZ1qLOytQghrBQ==",
+        "notes": "Page Optimizer: reads the full page text and skips member tool pages, so only real content issues show."
     }
 }
