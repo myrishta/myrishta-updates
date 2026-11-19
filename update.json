@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.375",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.375/myrishta-seo-helper-3.101.375.zip",
-        "sha256": "3ab65e28ee00b787398c417ea5297c98b58e735c5f626066da164a3658f4eb0e",
-        "sig": "Ndc2yyqKaaV4Ptrp6fZRTHyVF4E7xuvUq+Et1oKDBAASmA3LmbPd0nQp8E+4cYEgVozv587e7zTj0a5VGfVrAw==",
-        "notes": "Robot check switches itself off when the saved key is malformed, with a notice to fix it."
+        "version": "3.101.376",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.376/myrishta-seo-helper-3.101.376.zip",
+        "sha256": "106be171a5136fd78765151afe8e4f040a035a67174b16cefe3893f8f5d9a4d5",
+        "sig": "VWWq5jefqzyftU1aHwdPfA4Fx+28f/umhRONPDRI3sWv/BkOoGFQVGfsvnagHOtVgCi7W9R2EKwiojsqYrywBA==",
+        "notes": "One-click robot check on/off button in Website keys."
     },
     "theme": {
-        "version": "3.101.375",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.375/myrishta-theme-3.101.375.zip",
-        "sha256": "d405aeaaaa7612adb7af660bbf1df858ceff0683534c0cdff02740c546936e13",
-        "sig": "IxVLNE24Vce9Qz+FsgZKKHlKBMQUoiP2ve8J1/+hePAGiueg6Hw+4RoOr9faINFtDTDPiQJogVg9cS4Lbj6GCQ==",
-        "notes": "Robot check switches itself off when the saved key is malformed, with a notice to fix it."
+        "version": "3.101.376",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.376/myrishta-theme-3.101.376.zip",
+        "sha256": "2fd22a12ed2845c1619663abf05e53b5325e18b4af90c877a457ca3886cffeaf",
+        "sig": "Ad7VLLg0vhpACXKXzDzW7DddrfxXMVIrnjIHvUfxCmFOQGdhItv0jZmA309XJgVQecAxIUEVMlBSi7uAQB1QDA==",
+        "notes": "One-click robot check on/off button in Website keys."
     }
 }
