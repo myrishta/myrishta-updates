@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.372",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.372/myrishta-seo-helper-3.101.372.zip",
-        "sha256": "97a8fe46caef959c6096c76ae20c0a9de0b3066d79f82c639d20a5832ccd0675",
-        "sig": "aVSfmfjZEFk54PbZWLs6NpmIKnGDiNwtdDisOm5am+hYhIPdruiBETb6vfhN4LAcJ45SuqNvbBjBqhrD7xEGBg==",
-        "notes": "Google phrase scan skips other websites' names."
+        "version": "3.101.373",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.373/myrishta-seo-helper-3.101.373.zip",
+        "sha256": "fcb435d83bcc6b1668b594aed59c701daeac6e843e233147f0142e6bcdd6ee29",
+        "sig": "ZIPnva68+irzQAyrirZvVpzX3O6pHTwTBKd2KLM4OjYX0S0qREPpmivTwILYgAQE4fG+iy2d0nXmRMMiFdqTDg==",
+        "notes": "Login robot check: clearer messages and no wasted submit when the box is not ticked."
     },
     "theme": {
-        "version": "3.101.372",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.372/myrishta-theme-3.101.372.zip",
-        "sha256": "9dc3188acd0978bf8460327765982289b59cbb0fb883803b045185c52128635d",
-        "sig": "PEiiLMxTHHKvivHF3LpGV7RngsnrvXfiZHtEUUMJpk8owrC+1INW1DPUPddMwPagcFJMaSY3MmtwsnGlsG2dBQ==",
-        "notes": "Google phrase scan skips other websites' names."
+        "version": "3.101.373",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.373/myrishta-theme-3.101.373.zip",
+        "sha256": "38ecdd34a73d611e81a04dabaaa885af8771e85ed6e59544c96a52ed0943d0ec",
+        "sig": "v6JOOkfMGvVzlV55HXLTGM8OWBZ3rcR/x35ym9ANTnA+9mE8b4XReR9Of0ib417BRYOXwY9oHyORuDsA+fwmBg==",
+        "notes": "Login robot check: clearer messages and no wasted submit when the box is not ticked."
     }
 }
