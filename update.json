@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.387",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.387/myrishta-seo-helper-3.101.387.zip",
-        "sha256": "1c7ff81762f04736e9a0241847e3aaaaf677c5ef9440379ba3a1642f8ac101e0",
-        "sig": "SH7rZ+SCesosTziYnqfBZnGZiCJ/5jmWLEHnEGZG09jy/N2JrqCeMsAtwxE9KHW84OR8lmiAxF2GBoW0VwldDQ==",
-        "notes": "Homepage title now includes the brand name My Rishta Pakistan."
+        "version": "3.101.388",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.388/myrishta-seo-helper-3.101.388.zip",
+        "sha256": "711df4f90852b4dedcd4f6c161a31a52b9dbe163c9e45d213ecd688d50e2eea8",
+        "sig": "ikf/yhq2iXPU2gOVDjzQiDiM5+R7Wn5XVTEUBjWkOrxH+Ub6+SkEjJ9XYVRPJfrIGQZmvEAfydBmwOr1JoSDDA==",
+        "notes": "Review popup: invites logged-in members to rate on Google"
     },
     "theme": {
-        "version": "3.101.387",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.387/myrishta-theme-3.101.387.zip",
-        "sha256": "9c678d85ddb7fe33f957a8239e063a543a53b2396fdce6a225073bbeb2e812a2",
-        "sig": "gYFoPUFxzyDgEOy1uQa0MyIX8lkvoA9r6bFb+1bhxdK3me5glU5Tu/dk8bWf5t76cbnUD552boh/Yhndv7u7DA==",
-        "notes": "Homepage title now includes the brand name My Rishta Pakistan."
+        "version": "3.101.388",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.388/myrishta-theme-3.101.388.zip",
+        "sha256": "037e40679ebb5e0d087b0bb623f0fb71b7a9a77f59c054a1f59b050212d4ab54",
+        "sig": "Em6WDtq+V0hEcH3TQeoTn+AyC4/zgSgHkPTndVhnN3jDkfeYerGyXLNfdhYo9yhi19rfBak+ylYWsy+9hneTDw==",
+        "notes": "Review popup: invites logged-in members to rate on Google"
     }
 }
