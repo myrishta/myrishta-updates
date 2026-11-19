@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.370",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.370/myrishta-seo-helper-3.101.370.zip",
-        "sha256": "80350dbf6f87a3a822748b9d159459f30a156682a23b07db524f770638ed6e35",
-        "sig": "6MFDecd7ekyhsqrWbr/p1JalpyYkkkKNe4oi0zM6wjOynVOKgpG5OMBMCx1RSdRiMmKPTuxHBvuPuHmOL+JJCw==",
-        "notes": "Speed agent: clearer advice after the hosting move."
+        "version": "3.101.371",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.371/myrishta-seo-helper-3.101.371.zip",
+        "sha256": "d93b9139b56903b6df4bb6d7728479f6b6e9c493042bf4d33edd40b4c1197ed5",
+        "sig": "MKhrrt7Fse6ZTjPBaCjN5Sh5ssMuUIWUOQa3xlDVXxWvC2C3vGB3/FdWhR1YCqcqSTOCdB1B80+i3eX8Tb/SCw==",
+        "notes": "Keyword robot now reads Google suggestions daily and adds safe rishta phrases."
     },
     "theme": {
-        "version": "3.101.370",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.370/myrishta-theme-3.101.370.zip",
-        "sha256": "8b625616f69eb76027c43042eec5d97ed5d06ee530a489099d98bf55ab8ab10e",
-        "sig": "vCYqB8GoXYuA2D5nGHEIosUQ0h7adI4LaM2vvxDPvjOcgA1/JbITLQMV2eC4/GV2+1Mip+ne2MfX92QmA9VCAA==",
-        "notes": "Speed agent: clearer advice after the hosting move."
+        "version": "3.101.371",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.371/myrishta-theme-3.101.371.zip",
+        "sha256": "cfe770b3ef44ca3036006766f7703e18df9e033bc97f8e96a9de2289f9594eb9",
+        "sig": "yOqQ+qbxMwvHPXBl8hT7Gp1bYAzAnbcW/uzPXfzuOj9ox8vkerxBwPcp4CjVlLA887foaJ6+UZaC6gDPEhoEAw==",
+        "notes": "Keyword robot now reads Google suggestions daily and adds safe rishta phrases."
     }
 }
