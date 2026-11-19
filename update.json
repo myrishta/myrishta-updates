@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.367",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.367/myrishta-seo-helper-3.101.367.zip",
-        "sha256": "0cbd19f80199651d708bbe308e2bde03c9e7ba2c5f1b63e171d2e242dc40fc35",
-        "sig": "1EHn7NbYSuAp/yawmTLBFmp2/BGWNf94u6XAKqW31r18rWwVGwmKUoz0vE13pVa28kx9omwgmBx6rNH9+U4RDw==",
-        "notes": "Member area polish: duplicate cards removed, tidier lists, clearer text."
+        "version": "3.101.368",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.368/myrishta-seo-helper-3.101.368.zip",
+        "sha256": "e97a191574891c82ef66414c378b3b9bc498074027e08a7b7c67c9eec8ba2dd3",
+        "sig": "6+W8d2GeuL/yQ0eZU5Kf67lGZXlhne1pEhqgwUhKeFEc9n1bRRFQ3w07uH/O9p7NsSkQCVGDF0/TSksT7LvRCw==",
+        "notes": "Clear success and error messages when a member changes password or other settings."
     },
     "theme": {
-        "version": "3.101.367",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.367/myrishta-theme-3.101.367.zip",
-        "sha256": "cca23cfa8bf18b7ccc90c50637d6b74a964dc45611051af149d808e2bd57ec37",
-        "sig": "xK/9Uu9BbeERb6Xz1a49U0UH+C4oNhNw8J++17NIjW3j41K8sdykKSbeLfH6kfnpVrjevPhXPBHbyyd0Fl5JCQ==",
-        "notes": "Member area polish: duplicate cards removed, tidier lists, clearer text."
+        "version": "3.101.368",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.368/myrishta-theme-3.101.368.zip",
+        "sha256": "27e60b612b5d96df791274d577cb56cbb7ffbaf69d2bff835de6949033d668aa",
+        "sig": "JCZi6kZaE58WqK3fZAqTAqZtlfJlOjmc8ckmZfW7pnPYkPO1eSJNXyxIfCvfPZsjUdu8y/USqgdJOdq1EFtQCQ==",
+        "notes": "Clear success and error messages when a member changes password or other settings."
     }
 }
