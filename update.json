@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.383",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.383/myrishta-seo-helper-3.101.383.zip",
-        "sha256": "ca37d188dd113aded7246b230d1458c356ea3ef00041cc822bb447a5a6ffb776",
-        "sig": "T6rK14iudi0sdQZfgmLI7I2vSdDxrmBVUMVOEYD7MMRsohq5RSNcepOIKXtyrVVW8gr4ttG16nwIbIX+r9q6DA==",
-        "notes": "Page Optimizer: reads the full page text and skips member tool pages, so only real content issues show."
+        "version": "3.101.384",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.384/myrishta-seo-helper-3.101.384.zip",
+        "sha256": "891c3d5740a1da3dfd31740284431b36674013f6163b58260e77054f50b493d6",
+        "sig": "jKMiYeINW7eJAEx0Gm0EbwzYDQmTWKRQ58NkU61yrv+8qYvSIazW8CKOsNv8wV3u+RF2qV3egls5Z7Kzm5IFAw==",
+        "notes": "Original helpful text added to Latest Profiles and Success Stories pages."
     },
     "theme": {
-        "version": "3.101.383",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.383/myrishta-theme-3.101.383.zip",
-        "sha256": "dc81e08bb70cc1edd3e866c7a4ffc900bb39d4fa38ae48d5dbfd50a37c94eb3a",
-        "sig": "4bNnTCBE8Ucc33UiMHJ7LHY+geT1YXi/uTuNEpAWdEGmei9dvNH+q0DPhw4nwRAq0ShiuyYAOZ1qLOytQghrBQ==",
-        "notes": "Page Optimizer: reads the full page text and skips member tool pages, so only real content issues show."
+        "version": "3.101.384",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.384/myrishta-theme-3.101.384.zip",
+        "sha256": "5ccfc25efa27e3ca81768e4a5becd99d2d0b4befcc090201e98ef2858d1d76ae",
+        "sig": "iWB2nYUSZJyVtpODm1xjgdOkqXjI6fLAFU9zSfERiUospo6H9+mHlXFae5PWc7P+7DmASs5ZCBNFj6lHGbh9Bw==",
+        "notes": "Original helpful text added to Latest Profiles and Success Stories pages."
     }
 }
