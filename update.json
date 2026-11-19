@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.385",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.385/myrishta-seo-helper-3.101.385.zip",
-        "sha256": "9b5d9ab048ede34bfc7146311be1da29d2b9cfe0da8ac0e2f7783c70bb6c4079",
-        "sig": "PGhQhvIhAtbI3DnK3/1M2L+reUdpDsimONHX9Cl6iTXE0f8d9bJprygWCMrleR2YVdH2Col15m+cKQYqnssfAQ==",
-        "notes": "The new text now shows on Latest Profiles and Success Stories."
+        "version": "3.101.386",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.386/myrishta-seo-helper-3.101.386.zip",
+        "sha256": "7b07ae4729ed35f9d5131e405a361b72e3ae90c67bdb77734ade8eef862e6e1d",
+        "sig": "mnq39Rtk5ev2Q/y/3XmFxfU37Mu0O19HvoH10d0Ms6QmTpCxn02Rgp2dAGFON0qcpWCl+5UTUg7AuvSOCUuFBw==",
+        "notes": "Page Optimizer counts the text the plugin adds to a page."
     },
     "theme": {
-        "version": "3.101.385",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.385/myrishta-theme-3.101.385.zip",
-        "sha256": "ddfed9821a64c085b2f2cdff0e2c6fffc76b8df10f1e3b77623afe0a8f199eeb",
-        "sig": "5QIolJeUboDvBdSsXVrH/+8tfaBwXYZYlHRdqwNFd1eAZ6o1o78TKiFgTkg97i8qXWCRadYu4RLR3uhSLzaxCA==",
-        "notes": "The new text now shows on Latest Profiles and Success Stories."
+        "version": "3.101.386",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.386/myrishta-theme-3.101.386.zip",
+        "sha256": "860d9e369e1287e40157a5cb9ecf5e75cbe252e288099ad8c297ecd7af304063",
+        "sig": "oabQ7kvmekq6Brue8ZPetMEjTZO69SeXNdFjOCQWbXs1KUj/WpWOvVz4C8xHep7NcQhrU9R3pMNiVx1AJiKxBg==",
+        "notes": "Page Optimizer counts the text the plugin adds to a page."
     }
 }
