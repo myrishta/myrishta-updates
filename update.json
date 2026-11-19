@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.373",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.373/myrishta-seo-helper-3.101.373.zip",
-        "sha256": "fcb435d83bcc6b1668b594aed59c701daeac6e843e233147f0142e6bcdd6ee29",
-        "sig": "ZIPnva68+irzQAyrirZvVpzX3O6pHTwTBKd2KLM4OjYX0S0qREPpmivTwILYgAQE4fG+iy2d0nXmRMMiFdqTDg==",
-        "notes": "Login robot check: clearer messages and no wasted submit when the box is not ticked."
+        "version": "3.101.374",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.374/myrishta-seo-helper-3.101.374.zip",
+        "sha256": "c4a6e2e20e89d15fa4ed93ffc41b7a34ff2d7211a55bb122ca1d7e8eb30c3163",
+        "sig": "8mUo96GEp0/UKQPZwD4ymX/+JrbYLIkMIsjuLT3wU13N9Ughw2jPSY7PPL/reOToHePykV0uA3cBN8Z4IWJ0BA==",
+        "notes": "Login robot check: diagnostic for refused checks."
     },
     "theme": {
-        "version": "3.101.373",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.373/myrishta-theme-3.101.373.zip",
-        "sha256": "38ecdd34a73d611e81a04dabaaa885af8771e85ed6e59544c96a52ed0943d0ec",
-        "sig": "v6JOOkfMGvVzlV55HXLTGM8OWBZ3rcR/x35ym9ANTnA+9mE8b4XReR9Of0ib417BRYOXwY9oHyORuDsA+fwmBg==",
-        "notes": "Login robot check: clearer messages and no wasted submit when the box is not ticked."
+        "version": "3.101.374",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.374/myrishta-theme-3.101.374.zip",
+        "sha256": "a31ae6c9c361038f23ce305cd4cdb3cef1328d4345a582a169be6b3a0dde9084",
+        "sig": "w8I8C1rtrtjKKRkfdzOue7ve25HLLa9B/zBqHT+3b2xDM9Qr+PD5AaC3kXbMsLoUNHUQjvF8z4EVfNlvu07CAw==",
+        "notes": "Login robot check: diagnostic for refused checks."
     }
 }
