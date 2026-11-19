@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.376",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.376/myrishta-seo-helper-3.101.376.zip",
-        "sha256": "106be171a5136fd78765151afe8e4f040a035a67174b16cefe3893f8f5d9a4d5",
-        "sig": "VWWq5jefqzyftU1aHwdPfA4Fx+28f/umhRONPDRI3sWv/BkOoGFQVGfsvnagHOtVgCi7W9R2EKwiojsqYrywBA==",
-        "notes": "One-click robot check on/off button in Website keys."
+        "version": "3.101.377",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.377/myrishta-seo-helper-3.101.377.zip",
+        "sha256": "9f6df0f87b6cc3ae5213260946fa163eca782b1863ac5710a78be9b400a4dde3",
+        "sig": "uhpZPhgf3Whu95yqAKCxRryXiApV71AQZyhWDp/bs+k1oADLrzKUlNb0t1f3SSWCGHMllTV6Z0msiFg7hV2SAQ==",
+        "notes": "Website keys: browsers can no longer fill in a login password, and malformed keys never replace a working one."
     },
     "theme": {
-        "version": "3.101.376",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.376/myrishta-theme-3.101.376.zip",
-        "sha256": "2fd22a12ed2845c1619663abf05e53b5325e18b4af90c877a457ca3886cffeaf",
-        "sig": "Ad7VLLg0vhpACXKXzDzW7DddrfxXMVIrnjIHvUfxCmFOQGdhItv0jZmA309XJgVQecAxIUEVMlBSi7uAQB1QDA==",
-        "notes": "One-click robot check on/off button in Website keys."
+        "version": "3.101.377",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.377/myrishta-theme-3.101.377.zip",
+        "sha256": "b802a7545cea9c4c97f90b786f521a45462cb52dbd2da0bdb7b2a6a6c2f760c5",
+        "sig": "2sspuNpU6Ct2bHKKlrRx2mKtNgzyPbBUSSk7+PXRJNkC+yJNQ9NRtnjar5t/+jZw/wYTxy2p1T2IoB7SeWH0AA==",
+        "notes": "Website keys: browsers can no longer fill in a login password, and malformed keys never replace a working one."
     }
 }
