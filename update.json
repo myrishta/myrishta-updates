@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.369",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.369/myrishta-seo-helper-3.101.369.zip",
-        "sha256": "c14273468d8bcc215ab665c143cd50bb0a64e14c4fb11da420590424910379b2",
-        "sig": "Lg4OjnK0a3z1B12NHf2SF+MiJAmyN99x0e4FENYy8QalZSPAj0t/yQWhGY0LegMVYWeGeUwq1wsMQvJK5fvqCQ==",
-        "notes": "Contact page: more help text for families."
+        "version": "3.101.370",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.370/myrishta-seo-helper-3.101.370.zip",
+        "sha256": "80350dbf6f87a3a822748b9d159459f30a156682a23b07db524f770638ed6e35",
+        "sig": "6MFDecd7ekyhsqrWbr/p1JalpyYkkkKNe4oi0zM6wjOynVOKgpG5OMBMCx1RSdRiMmKPTuxHBvuPuHmOL+JJCw==",
+        "notes": "Speed agent: clearer advice after the hosting move."
     },
     "theme": {
-        "version": "3.101.369",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.369/myrishta-theme-3.101.369.zip",
-        "sha256": "ad641d873b4233fe82a068f1c4fc1900e1b8452980dfcef5318282b9c8116b49",
-        "sig": "Gb3a473obH/OavBaSeP/jzteKYkV2kWkIgdrkRtAUbnb6oTs+5qCJzd9ZInSJxjvv7GkgzpXB4g49MwyFlfrAA==",
-        "notes": "Contact page: more help text for families."
+        "version": "3.101.370",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.370/myrishta-theme-3.101.370.zip",
+        "sha256": "8b625616f69eb76027c43042eec5d97ed5d06ee530a489099d98bf55ab8ab10e",
+        "sig": "vCYqB8GoXYuA2D5nGHEIosUQ0h7adI4LaM2vvxDPvjOcgA1/JbITLQMV2eC4/GV2+1Mip+ne2MfX92QmA9VCAA==",
+        "notes": "Speed agent: clearer advice after the hosting move."
     }
 }
