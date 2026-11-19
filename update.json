@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.379",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.379/myrishta-seo-helper-3.101.379.zip",
-        "sha256": "a810f88a54b1547077b63626d7f6d64dedec3aaf40e9864f26ac3930dbfce219",
-        "sig": "qqIOLW0/wQ260xqQPghkCvFXNUVcjtBQCbGBVyenSWz+NmUb2ZTthIfdeZ3vWzSr5lOkjXu6SRUY12TMuq1XDQ==",
-        "notes": "Two-step login: a double send of the code no longer says expired."
+        "version": "3.101.380",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.380/myrishta-seo-helper-3.101.380.zip",
+        "sha256": "5aba1f59bfe3cffb9a2ffab74ead4a943f6b6671716c506e7570ede2dccf1a86",
+        "sig": "F/3aA2/uji9dSAkwiEOQdjYzj/SyEXTHo0/A0DLYPhHBB7q3WcKH+NTobAfSb3Es2dylGa2uFX5MKYYIZKO3BQ==",
+        "notes": "New Page Optimizer: scores every page and fixes safe issues daily. Consent API declared."
     },
     "theme": {
-        "version": "3.101.379",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.379/myrishta-theme-3.101.379.zip",
-        "sha256": "6b563406b26d45f213e1bb55e6dcf9088887860914c128a35af75a39af695723",
-        "sig": "fFWFe69MynYLAAVlzbpfXOfXYWBi6qxRSXUpqEfvwbMGllXRvRYdlIWEnqMiTu5giTxCZAHUC53RT6zag+2MAg==",
-        "notes": "Two-step login: a double send of the code no longer says expired."
+        "version": "3.101.380",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.380/myrishta-theme-3.101.380.zip",
+        "sha256": "ff50b5d2cc57b8eeaaae19907c448c11db6cb1597fc4d912b6c93a480094d5ac",
+        "sig": "yJG5zZJO4PJXaYUjDZKC4UIC2m+0dNlFsA92JGWp+wyB31TC0CXlpTqNUj3uM+WqrRc+zFMMfdHC82jWDGL3Cg==",
+        "notes": "New Page Optimizer: scores every page and fixes safe issues daily. Consent API declared."
     }
 }
