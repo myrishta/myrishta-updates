@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.391",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.391/myrishta-seo-helper-3.101.391.zip",
-        "sha256": "e2a49367596f8a9123731c70626bacd031bac5ad496df801d9073616fdcabe0b",
-        "sig": "yHNAe3CU3RymHWj13kt2yRn7GX6sS83Pbmf9YPQRLnIq0IA31jlI4VdZu6LC5gbWLmDF6bS5ZL5w8j+qj1AEDQ==",
-        "notes": "SMS gateway for two-step login (self-hosted Android phone)"
+        "version": "3.101.392",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.392/myrishta-seo-helper-3.101.392.zip",
+        "sha256": "4150e1dff1c3eee09e32762d2e5821cefd70324c37c22d808b7c76f27f8be5a1",
+        "sig": "WfcD32XwkQCMy7SFRuYpRKNeEFKQ1DFdEwTPbImkG7O1hkBWxNdiLmh6yjjvDa/PYwoKNewMGoiQpOFFES7sDg==",
+        "notes": "Fix: SMS gateway page now loads"
     },
     "theme": {
-        "version": "3.101.391",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.391/myrishta-theme-3.101.391.zip",
-        "sha256": "ca2a03b32ee6b0c93fc3193ab4cbf5c321467758fb6788dc823b952315b4a8f0",
-        "sig": "S7Wys0dlLY7dwNL8xZNAeDbpHeYUe+yDFR96v77HC3JDJifgjHao5I28o4tiqXT7uS1ofCAJW6TemhGsThI+AA==",
-        "notes": "SMS gateway for two-step login (self-hosted Android phone)"
+        "version": "3.101.392",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.392/myrishta-theme-3.101.392.zip",
+        "sha256": "cb2565ee5037699683d2a5eeda8a8a0edd81f5600ff42fdc6593ba3dd9cb9a10",
+        "sig": "Ac3ty8HDs68kB/HjzjEx+4+gbDKGwcXWcVWOFmwH7zwT2Q8CRPGTm6XqCA3oxhytfZwpEcOmy2lZs1J88OkMAg==",
+        "notes": "Fix: SMS gateway page now loads"
     }
 }
