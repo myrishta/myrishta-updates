@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.389",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.389/myrishta-seo-helper-3.101.389.zip",
-        "sha256": "9092ee282f5d46342c19fa83293834178cdb09bb94bcb4afc22479c38b20d3fe",
-        "sig": "E8H2ykaSu1grbyOzvjFX5QAyH1oj6mqSM8kgq4q4RG4clOdt6MtlarwgOBtiXR73XhtA8497P0BWuCbwr/4LCA==",
-        "notes": "Optimizer counts plugin-added headings and links; share links tagged with UTM"
+        "version": "3.101.390",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.390/myrishta-seo-helper-3.101.390.zip",
+        "sha256": "2eb1c1ef476ce935371280ab64e6666ee889d95bf0c82975abd7174f2b422529",
+        "sig": "p5YylHHfavrH81DbB933efL0k1Lhwsm27Rr+IvClTg/PMmEIXonE2+tVaJg4qmlmzv2vLAQzHQJz8t0rVX+GCw==",
+        "notes": "Member manager: Rename profile button"
     },
     "theme": {
-        "version": "3.101.389",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.389/myrishta-theme-3.101.389.zip",
-        "sha256": "b79400db828756614d8082ba47ff8189ce57b15853eb953fd219c10dc47fe263",
-        "sig": "edwZg/6ZHp3uuTtyPOZjW9QTBqhAD/FtHrvd3SRZAOjaK2axjkQF4+2UiM+uUnd1G1IS5AUNA/2SKBtG5XRBCQ==",
-        "notes": "Optimizer counts plugin-added headings and links; share links tagged with UTM"
+        "version": "3.101.390",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.390/myrishta-theme-3.101.390.zip",
+        "sha256": "62af5c3406580953815607d27bdccaefd4b2459185946c0c99311c7684ea8932",
+        "sig": "57vz9d0w1uP1QJa/qnfySXUZxVNpFTuQbtm4Tb/RwX5fTojNYXyB3KG0u3QWdKr8MnK3zS+9BRhulaLq5dSCDg==",
+        "notes": "Member manager: Rename profile button"
     }
 }
