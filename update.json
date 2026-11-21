@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.390",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.390/myrishta-seo-helper-3.101.390.zip",
-        "sha256": "2eb1c1ef476ce935371280ab64e6666ee889d95bf0c82975abd7174f2b422529",
-        "sig": "p5YylHHfavrH81DbB933efL0k1Lhwsm27Rr+IvClTg/PMmEIXonE2+tVaJg4qmlmzv2vLAQzHQJz8t0rVX+GCw==",
-        "notes": "Member manager: Rename profile button"
+        "version": "3.101.391",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.391/myrishta-seo-helper-3.101.391.zip",
+        "sha256": "e2a49367596f8a9123731c70626bacd031bac5ad496df801d9073616fdcabe0b",
+        "sig": "yHNAe3CU3RymHWj13kt2yRn7GX6sS83Pbmf9YPQRLnIq0IA31jlI4VdZu6LC5gbWLmDF6bS5ZL5w8j+qj1AEDQ==",
+        "notes": "SMS gateway for two-step login (self-hosted Android phone)"
     },
     "theme": {
-        "version": "3.101.390",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.390/myrishta-theme-3.101.390.zip",
-        "sha256": "62af5c3406580953815607d27bdccaefd4b2459185946c0c99311c7684ea8932",
-        "sig": "57vz9d0w1uP1QJa/qnfySXUZxVNpFTuQbtm4Tb/RwX5fTojNYXyB3KG0u3QWdKr8MnK3zS+9BRhulaLq5dSCDg==",
-        "notes": "Member manager: Rename profile button"
+        "version": "3.101.391",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.391/myrishta-theme-3.101.391.zip",
+        "sha256": "ca2a03b32ee6b0c93fc3193ab4cbf5c321467758fb6788dc823b952315b4a8f0",
+        "sig": "S7Wys0dlLY7dwNL8xZNAeDbpHeYUe+yDFR96v77HC3JDJifgjHao5I28o4tiqXT7uS1ofCAJW6TemhGsThI+AA==",
+        "notes": "SMS gateway for two-step login (self-hosted Android phone)"
     }
 }
