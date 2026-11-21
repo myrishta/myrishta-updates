@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.388",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.388/myrishta-seo-helper-3.101.388.zip",
-        "sha256": "711df4f90852b4dedcd4f6c161a31a52b9dbe163c9e45d213ecd688d50e2eea8",
-        "sig": "ikf/yhq2iXPU2gOVDjzQiDiM5+R7Wn5XVTEUBjWkOrxH+Ub6+SkEjJ9XYVRPJfrIGQZmvEAfydBmwOr1JoSDDA==",
-        "notes": "Review popup: invites logged-in members to rate on Google"
+        "version": "3.101.389",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.389/myrishta-seo-helper-3.101.389.zip",
+        "sha256": "9092ee282f5d46342c19fa83293834178cdb09bb94bcb4afc22479c38b20d3fe",
+        "sig": "E8H2ykaSu1grbyOzvjFX5QAyH1oj6mqSM8kgq4q4RG4clOdt6MtlarwgOBtiXR73XhtA8497P0BWuCbwr/4LCA==",
+        "notes": "Optimizer counts plugin-added headings and links; share links tagged with UTM"
     },
     "theme": {
-        "version": "3.101.388",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.388/myrishta-theme-3.101.388.zip",
-        "sha256": "037e40679ebb5e0d087b0bb623f0fb71b7a9a77f59c054a1f59b050212d4ab54",
-        "sig": "Em6WDtq+V0hEcH3TQeoTn+AyC4/zgSgHkPTndVhnN3jDkfeYerGyXLNfdhYo9yhi19rfBak+ylYWsy+9hneTDw==",
-        "notes": "Review popup: invites logged-in members to rate on Google"
+        "version": "3.101.389",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.389/myrishta-theme-3.101.389.zip",
+        "sha256": "b79400db828756614d8082ba47ff8189ce57b15853eb953fd219c10dc47fe263",
+        "sig": "edwZg/6ZHp3uuTtyPOZjW9QTBqhAD/FtHrvd3SRZAOjaK2axjkQF4+2UiM+uUnd1G1IS5AUNA/2SKBtG5XRBCQ==",
+        "notes": "Optimizer counts plugin-added headings and links; share links tagged with UTM"
     }
 }
