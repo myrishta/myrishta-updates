@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.404",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.404/myrishta-seo-helper-3.101.404.zip",
-        "sha256": "6af45f6556d7e632a0948f58724fe70cb9d6690f40785510844d4f14cbeb0fe6",
-        "sig": "e1USqJ2deLRNUtl2wAAajHTKATJ/l2wWzuWdvCDmletYfUgbvH/l3Ub5zW5R+VkYw0XecnFwKm1PJA9uVPYOCg==",
-        "notes": "Reports tab count fixed"
+        "version": "3.101.405",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.405/myrishta-seo-helper-3.101.405.zip",
+        "sha256": "dc44683357263d4e231b0b1d93ce39d32581bf748b885b6274b4b3544231eb11",
+        "sig": "B4jfaMFsaOxy+k+9cT7qoRx4C47sKqI+Z+oDsZkkDFS01g1e2hk2xProhEQpuin+0K79AaCjTs/XHetW+jb4Dw==",
+        "notes": "AI: Groq first, Claude last"
     },
     "theme": {
-        "version": "3.101.404",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.404/myrishta-theme-3.101.404.zip",
-        "sha256": "3bd12df891eaff29b9461b248dca580d1f7ef56f5e047a7be9310a31c69722ff",
-        "sig": "7tp16d2aq4y2enNukdm+9i3r3awz4b/F9gex8hPf0PyHF0bljdN25m21z8/bmpiXiKz0Coz2iwWLZLKqnu4gDw==",
-        "notes": "Reports tab count fixed"
+        "version": "3.101.405",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.405/myrishta-theme-3.101.405.zip",
+        "sha256": "b8c56dd0e9a98c8818ae4fab9e4291a2e26ba20c9a9a3481f6f0358096095432",
+        "sig": "7TTbyBHv9Xrcan+n6d+lb3mu58RppsgayqsL0Zbu7C0RfX6HVOKs6gfAI5RlX5R42N6Cp6ITLvhdFB3TpZs6Bw==",
+        "notes": "AI: Groq first, Claude last"
     }
 }
