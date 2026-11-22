@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.405",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.405/myrishta-seo-helper-3.101.405.zip",
-        "sha256": "dc44683357263d4e231b0b1d93ce39d32581bf748b885b6274b4b3544231eb11",
-        "sig": "B4jfaMFsaOxy+k+9cT7qoRx4C47sKqI+Z+oDsZkkDFS01g1e2hk2xProhEQpuin+0K79AaCjTs/XHetW+jb4Dw==",
-        "notes": "AI: Groq first, Claude last"
+        "version": "3.101.406",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.406/myrishta-seo-helper-3.101.406.zip",
+        "sha256": "b7a2e883747ba2c37ce640cc8f4004b5f39a1ab49c26f7984824cc1d7d17db4e",
+        "sig": "F8rHqN3OToLQuPvq3PerLHJ04Ec2YYccL04vYf0E6WtYwhTJXmF3ReFqlaYjrqBnn/n0GI8qMeRlAL8FEObVAA==",
+        "notes": "Quiet theme copy during updates"
     },
     "theme": {
-        "version": "3.101.405",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.405/myrishta-theme-3.101.405.zip",
-        "sha256": "b8c56dd0e9a98c8818ae4fab9e4291a2e26ba20c9a9a3481f6f0358096095432",
-        "sig": "7TTbyBHv9Xrcan+n6d+lb3mu58RppsgayqsL0Zbu7C0RfX6HVOKs6gfAI5RlX5R42N6Cp6ITLvhdFB3TpZs6Bw==",
-        "notes": "AI: Groq first, Claude last"
+        "version": "3.101.406",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.406/myrishta-theme-3.101.406.zip",
+        "sha256": "8f59058aded3571fc60b2305f829f91e3d0c542172e10934df4c58884196be03",
+        "sig": "gw8EXpDdTFxeWHaje63UszgZdf46pyoClhu+bbosrjfWOYTtRGFUFP+fLaZ0bR/rKlKyIg3eJUgXQcy18Wb+BA==",
+        "notes": "Quiet theme copy during updates"
     }
 }
