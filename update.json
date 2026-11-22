@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.401",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.401/myrishta-seo-helper-3.101.401.zip",
-        "sha256": "b67e41221dea10d6ea15d50fccc929b4d819c26626d0e2a78da394c22f1dbef2",
-        "sig": "RAT8y/TwlnbVV/8whA5kaFNKOyP70M035KJwyzzGWEvfLdF1iUPhgeDRqWJJW7NsWEQCF0Krk3HkYXzjDjT/Cw==",
-        "notes": "Theme copy no longer errors while the plugin is being updated"
+        "version": "3.101.402",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.402/myrishta-seo-helper-3.101.402.zip",
+        "sha256": "72a4ed4be469db6633dc9f1e88fa06b5ca2ed1a552ca56048475ba633f92c778",
+        "sig": "Rv2HhqOyWNIP9tQGgHrwCVTlt3qBx1n/2fnUQZpypEmOFzvFUP1/NnlPVmtwlxgBYeJUIs2o3kmwxDpDBvahDA==",
+        "notes": "SMS gateway: completes a bare server address"
     },
     "theme": {
-        "version": "3.101.401",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.401/myrishta-theme-3.101.401.zip",
-        "sha256": "b84742dbf582e4a7b927bba18e06381de4f558b842305cc9ee404b2445ddee61",
-        "sig": "OqBjUFxgqXYID9ERMl40ppkZMTmb8Vdef3hgk6zkpmVSi2JQPD7jz/+MIImP7aOefk+tI+zHcC6nC5uLK1GwAQ==",
-        "notes": "Theme copy no longer errors while the plugin is being updated"
+        "version": "3.101.402",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.402/myrishta-theme-3.101.402.zip",
+        "sha256": "66d2c44c132c9ef305b9440c5dcbc718d756b24b83567deac66d8735ef38ef1b",
+        "sig": "aZuD3eOVXHL/Tn4bqdtmt5uWe8iAawU8eNtJEfRogJJNOVd5vEGH/H45ekvhtiASxCRSgZ1/uqa0F2hBaqSmDg==",
+        "notes": "SMS gateway: completes a bare server address"
     }
 }
