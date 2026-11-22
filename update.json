@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.403",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.403/myrishta-seo-helper-3.101.403.zip",
-        "sha256": "ba34789300b7a9c8ffecb8eda534789ee3d094f2bcfb1c2fdb54590cdf267032",
-        "sig": "RxUS5HNr6PMN3Zd3rVtU1IMQ6RIQlwxaTEJAr7ajQR3ASZNliNi11eFgN47L5MTDEKi6eXQy+FLoLggfHXnzBQ==",
-        "notes": "SMS code message shorter, code first, no link"
+        "version": "3.101.404",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.404/myrishta-seo-helper-3.101.404.zip",
+        "sha256": "6af45f6556d7e632a0948f58724fe70cb9d6690f40785510844d4f14cbeb0fe6",
+        "sig": "e1USqJ2deLRNUtl2wAAajHTKATJ/l2wWzuWdvCDmletYfUgbvH/l3Ub5zW5R+VkYw0XecnFwKm1PJA9uVPYOCg==",
+        "notes": "Reports tab count fixed"
     },
     "theme": {
-        "version": "3.101.403",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.403/myrishta-theme-3.101.403.zip",
-        "sha256": "37ea9940fa1433a2e631accf4a1ea3830acbc68ab8f715bcc89278f2336b5a72",
-        "sig": "VAUZ3N6x7+SRerFfov47fUDhgIi2SaHUYirJQdlM3RV9Gi3VmubFe3JNYo7kngK4W3DeTicW31j7vRB8wQvLAw==",
-        "notes": "SMS code message shorter, code first, no link"
+        "version": "3.101.404",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.404/myrishta-theme-3.101.404.zip",
+        "sha256": "3bd12df891eaff29b9461b248dca580d1f7ef56f5e047a7be9310a31c69722ff",
+        "sig": "7tp16d2aq4y2enNukdm+9i3r3awz4b/F9gex8hPf0PyHF0bljdN25m21z8/bmpiXiKz0Coz2iwWLZLKqnu4gDw==",
+        "notes": "Reports tab count fixed"
     }
 }
