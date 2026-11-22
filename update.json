@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.392",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.392/myrishta-seo-helper-3.101.392.zip",
-        "sha256": "4150e1dff1c3eee09e32762d2e5821cefd70324c37c22d808b7c76f27f8be5a1",
-        "sig": "WfcD32XwkQCMy7SFRuYpRKNeEFKQ1DFdEwTPbImkG7O1hkBWxNdiLmh6yjjvDa/PYwoKNewMGoiQpOFFES7sDg==",
-        "notes": "Fix: SMS gateway page now loads"
+        "version": "3.101.393",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.393/myrishta-seo-helper-3.101.393.zip",
+        "sha256": "21e9216f3e32f8f84c0771d400fd4b5eb0fdd8c63d5b5877429c0eb8a8f4c6c8",
+        "sig": "Q+MPwHapekBd1wcW+iRe64O1yj64go3dVCoLVu+UJF0pdOrFP1B8sNH3vw3XDIcJafko/B48EbGkTnUbkBkRCA==",
+        "notes": "Tickets: clickable counters and Closed/Solved tab"
     },
     "theme": {
-        "version": "3.101.392",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.392/myrishta-theme-3.101.392.zip",
-        "sha256": "cb2565ee5037699683d2a5eeda8a8a0edd81f5600ff42fdc6593ba3dd9cb9a10",
-        "sig": "Ac3ty8HDs68kB/HjzjEx+4+gbDKGwcXWcVWOFmwH7zwT2Q8CRPGTm6XqCA3oxhytfZwpEcOmy2lZs1J88OkMAg==",
-        "notes": "Fix: SMS gateway page now loads"
+        "version": "3.101.393",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.393/myrishta-theme-3.101.393.zip",
+        "sha256": "eac9c4530edf4cf3aeef1227b44ddb2c75c86901e11e72048b8aaa27ab9c78f0",
+        "sig": "KmNPK4zKlJ8LfKCDyfjAFntp/b4wAIZlm24CEoKSjNeRyb7rFzz1CyTGPLmNd7nDTKZ6BaNwK2kAd34p5QmJBg==",
+        "notes": "Tickets: clickable counters and Closed/Solved tab"
     }
 }
