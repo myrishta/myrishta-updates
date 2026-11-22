@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.397",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.397/myrishta-seo-helper-3.101.397.zip",
-        "sha256": "3136f5b4ec8ba79760938d4ab5de092e8db8658735ddc83d65b8a6092fe65edd",
-        "sig": "PUpR70sp5oqjh+f5ni/3sdNFyie3LG7XDEi9T6qhbpzN6tLr3lyyEZYNLypraXxiYEMyzA/coiCJb3tkNWaSBQ==",
-        "notes": "Package orders: shows who gave each package"
+        "version": "3.101.398",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.398/myrishta-seo-helper-3.101.398.zip",
+        "sha256": "1d77f6c235f2da9cd9add5541428f650223c13db8c98c5d3aa2997b8b4d4c73f",
+        "sig": "6azrKnKkCmQGc0IBCE6yNiH57cr59ZIHTFlgGtqzyIOJXtoe2Z4Kf7I7V+LUXYmtyuwE41BRQbIM3BwjGfp5Ag==",
+        "notes": "Package orders: order numbers and one-page printable report"
     },
     "theme": {
-        "version": "3.101.397",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.397/myrishta-theme-3.101.397.zip",
-        "sha256": "9ee4d5c3360a7cfef6c89d3e8b7e1396f0021503005217ed6ec8db0871c5d423",
-        "sig": "BtywSU3xWc3mdi73ddV0aKITYxQQX+bCg577nn64x8668Tr/sQqi9eOkFDyLG94nsLNy1CmomUU+kQH31fGZDA==",
-        "notes": "Package orders: shows who gave each package"
+        "version": "3.101.398",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.398/myrishta-theme-3.101.398.zip",
+        "sha256": "caa06f503c01e0265b9049af5144ffcb31b3a686d323796ca64710bb5a2f0a85",
+        "sig": "iEw6dSCkdSBopbd72Qtj81mfpjs3pbvaLnPl6Yx2JlBw+GZhArZ13u0tkZwTFHBr1swmeFldiwFfmxrGbJcWCQ==",
+        "notes": "Package orders: order numbers and one-page printable report"
     }
 }
