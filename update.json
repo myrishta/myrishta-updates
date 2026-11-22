@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.406",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.406/myrishta-seo-helper-3.101.406.zip",
-        "sha256": "b7a2e883747ba2c37ce640cc8f4004b5f39a1ab49c26f7984824cc1d7d17db4e",
-        "sig": "F8rHqN3OToLQuPvq3PerLHJ04Ec2YYccL04vYf0E6WtYwhTJXmF3ReFqlaYjrqBnn/n0GI8qMeRlAL8FEObVAA==",
-        "notes": "Quiet theme copy during updates"
+        "version": "3.101.407",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.407/myrishta-seo-helper-3.101.407.zip",
+        "sha256": "f5214a176fc56797a9f71ce0d2a18ea6b86e17149ba83f46101d7d563cecf74d",
+        "sig": "sVUxIbo+dMt9y8cyOI30fHK0GaA0D/kv9z6M182M7bXA7d7cB2PK70zBlfBdk+hPvkT8KXxHnChD1grW50hNBw==",
+        "notes": "Claude fallback answers without thinking"
     },
     "theme": {
-        "version": "3.101.406",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.406/myrishta-theme-3.101.406.zip",
-        "sha256": "8f59058aded3571fc60b2305f829f91e3d0c542172e10934df4c58884196be03",
-        "sig": "gw8EXpDdTFxeWHaje63UszgZdf46pyoClhu+bbosrjfWOYTtRGFUFP+fLaZ0bR/rKlKyIg3eJUgXQcy18Wb+BA==",
-        "notes": "Quiet theme copy during updates"
+        "version": "3.101.407",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.407/myrishta-theme-3.101.407.zip",
+        "sha256": "37e455d6a2a7dc830292ff7ddc9557671260dc9ec8817af4d08c3a69b2effe7c",
+        "sig": "2tS9UVWbK6BGexjsxaAT02VaMfvXG47dBSRiGIIL6mR/sxDEPO/fGSroA8sJhiCaJf9bGZqXONP/V6wr64lMCA==",
+        "notes": "Claude fallback answers without thinking"
     }
 }
