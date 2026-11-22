@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.399",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.399/myrishta-seo-helper-3.101.399.zip",
-        "sha256": "1f2c0e99d15cfae27189462adf88b58e817c39ad7800fb0095d740204128322b",
-        "sig": "2V0V2vlkGuSIG9vDAGatevcXPT1XTmq/hgQUcLoa8h1ho+0jNKIoVt2pHYvop5E49x6aoGQ2SNRyD93Tkf8MBQ==",
-        "notes": "Package orders: print one or selected orders"
+        "version": "3.101.400",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.400/myrishta-seo-helper-3.101.400.zip",
+        "sha256": "55d4eac0c74e32de18a25b35a207ee08be8dee7f58d85379a4368b20ce7effb3",
+        "sig": "G3kH2NYbYjOCgAovbOBssiL6RQWzwU3fQd8c6VipXYh91OaLnFRQjaZ2d6J5aOSzi+xLzEexRlTXpSL3eAYoAg==",
+        "notes": "Package card by email and messenger when a package is given"
     },
     "theme": {
-        "version": "3.101.399",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.399/myrishta-theme-3.101.399.zip",
-        "sha256": "5ab3321fe4e01745ca1af97e04ffb581ada19f243eb3c4a5d9e9b4ad48104f11",
-        "sig": "FyIb0/byFQTVfIcsu6lRE5Y+8UNe37TX/rcS4xwsVdG72scGwoP5+ndqVVHSno/bbly1QegHTKnvb1j1UbKkDg==",
-        "notes": "Package orders: print one or selected orders"
+        "version": "3.101.400",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.400/myrishta-theme-3.101.400.zip",
+        "sha256": "2f13dffff63050a71a092c5eeec806821e7a9364bac1e5a9db1e5adc86befe74",
+        "sig": "v2haImj7Fa+bHbUM9EFLNmq8h8Q0OoZeak+BqINh56ZIJo268xUzCFu2hY2eo7s3MAuj2U6rlzQDpF7iaSfYDQ==",
+        "notes": "Package card by email and messenger when a package is given"
     }
 }
