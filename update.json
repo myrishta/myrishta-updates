@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.394",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.394/myrishta-seo-helper-3.101.394.zip",
-        "sha256": "bfba17eb16039eddcd93af852a22315caf377ba8727b5ee4aa9a47de21398ec1",
-        "sig": "kgxV59qGJY/DvxaT7VmdWjjIXIuL1bHG6CRqKlNgpoRXU09KdVvrVs/G5C6PeAjpWyCTWOM08FZ3HFMcbFxfAg==",
-        "notes": "Speed Tools: Check my CDN now"
+        "version": "3.101.395",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.395/myrishta-seo-helper-3.101.395.zip",
+        "sha256": "59904f2a7bafebe0a59bf559b0e489514c73a5be695c2416e60edbf530fa3fe9",
+        "sig": "dQKV90MjGtZS8XCIQCNiyTvJnKEx2NCFzPXpQlJAjJM3kxhMqspQ31r+Bbe3RFLkR4bR7Ilvb752ZtCzEnNHCg==",
+        "notes": "CDN check: clearer verdict, tests css/js/images"
     },
     "theme": {
-        "version": "3.101.394",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.394/myrishta-theme-3.101.394.zip",
-        "sha256": "b583ee6a39832c1a82ca94758eae3d2e714601468a6bf66e13e528005aa4c60c",
-        "sig": "CI5Li4A2WFrstbz6B/7Mj0591AYXUeRe5tFbUR3buSETUbEojJsrzcYxHIOVaMfFYUM6toiO5J/LlyYO1mKMDw==",
-        "notes": "Speed Tools: Check my CDN now"
+        "version": "3.101.395",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.395/myrishta-theme-3.101.395.zip",
+        "sha256": "ac61a1cd9d5b44de392f819c863ebd4b8b99fa01c119e253097597eb1d7cc01f",
+        "sig": "wdvnFdgYNZ6uNCyDXrAw4W2asFMfoVaAh7TTezQp1g+6oC572VzXtp39yAVVB8+3tuyJ0pawAmxwLW6jPN+OCw==",
+        "notes": "CDN check: clearer verdict, tests css/js/images"
     }
 }
