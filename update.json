@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.408",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.408/myrishta-seo-helper-3.101.408.zip",
-        "sha256": "fafbfd76e01ab59bed1683ae226d00c0bcec0d9c8cd18becd4def0ce5c1103f7",
-        "sig": "rKfgfsNt3i2HszzMZSjxDvhM+RZd8Vex+8CO8k+q9IYraGxxMrnw0glU1f8izaQGWK4fVj9yf68qrzOUXdnLDQ==",
-        "notes": "Database tidy page"
+        "version": "3.101.409",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.409/myrishta-seo-helper-3.101.409.zip",
+        "sha256": "67a33d5e513edf9ba935a630eb76f62451b42bda1fe97a6b0d3a83669fc86505",
+        "sig": "XhiL/lxparu+OgD4XUyznVU3Vy5tHZ4BjrXUgA8IqHTvgIZNJRSY9NVzbcjac553UFH9fdvFHwazbDA6d1c2Dg==",
+        "notes": "New member messenger with quick Q&A"
     },
     "theme": {
-        "version": "3.101.408",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.408/myrishta-theme-3.101.408.zip",
-        "sha256": "5e199a83cf7cacdae0b6a9459ae9bec400744b311d8fda870d5273b24f771f23",
-        "sig": "+T9EjKCe9SrP/fg9dc/YBi5spTS+HRlMroUW98XEpO/WKKO4hAY/lXU0EUccA8ge/zZPTWtZDxU1eFwXEp0BCQ==",
-        "notes": "Database tidy page"
+        "version": "3.101.409",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.409/myrishta-theme-3.101.409.zip",
+        "sha256": "a5542c30d359109470a1d385d97398d497fd01a780454707ede6c71320b5fe14",
+        "sig": "JchnYFtol94P9NN1pnnUT33KIMMSxsKWWaKDn2Ch3WLkFgsVlwt1S/nH+NjkvCKfNfhdH1U4+80etmBnz074DQ==",
+        "notes": "New member messenger with quick Q&A"
     }
 }
