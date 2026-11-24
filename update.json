@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.415",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.415/myrishta-seo-helper-3.101.415.zip",
-        "sha256": "f85e969a68ebf46442671e51c17eb0d53f544ddc815c943ff87f712f594fa8ed",
-        "sig": "NXwwbEdpBQzEwg2X28uka0ZfmU4F+HtrO5+D1Odv+Zg9ctNaQJccWQtvZMEHJLLtK2q4344gOjdsjVsgwoKHCg==",
-        "notes": "Video guides: first tap always plays (works with cache delay), site colours"
+        "version": "3.101.416",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.416/myrishta-seo-helper-3.101.416.zip",
+        "sha256": "0ef131aaef660a8289d079e9e9d70731597068ed4de3c462e0c5a06aa1cca805",
+        "sig": "4m9HumQ8sppdT1GomkNxsDwjGzQr+v0GkqNlfSnY1U/aYuPypqrFx2fFqOD2HvYth7CPFdqPNe2Ql43AZweYCA==",
+        "notes": "Weekly YouTube post writer: AI drafts a Community post, emails it, ticket, copy button"
     },
     "theme": {
-        "version": "3.101.415",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.415/myrishta-theme-3.101.415.zip",
-        "sha256": "28c5e9776b99471fe0965d6a515f400a993303af4d1fcd0d1ee7426462914636",
-        "sig": "ZZCuFtyG7bA94HihXj9kFjL86TGesgwTUXSYqgayKYSP5co73hcXajiy3EWsvyZYpBs3W9oqU/hFv5DM7amkDA==",
-        "notes": "Video guides: first tap always plays (works with cache delay), site colours"
+        "version": "3.101.416",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.416/myrishta-theme-3.101.416.zip",
+        "sha256": "c083aa0607e974e8104e32b61125ef897f2b1fd852d8fccffc23059964c4cf19",
+        "sig": "7QzAPdWyDlk5XhY6NoUbsQfWbuhatK3uGV2mfWgVgO3smUjQOxx3RYyU0g9/UsCo5AU9ietYjLjK9mU6KxSbAw==",
+        "notes": "Weekly YouTube post writer: AI drafts a Community post, emails it, ticket, copy button"
     }
 }
