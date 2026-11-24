@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.412",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.412/myrishta-seo-helper-3.101.412.zip",
-        "sha256": "7af6153be46dbfc0ac3bd9ab41f915b9eeb4ed5213580d71dc79986d1487d661",
-        "sig": "Zh7WAoHmP/bdQXBt0TKQpknMJPJERs3obC5K+l9A3Yf+Ns2D0nkPq57s6us/Af90njRQqO+gXurDiu7Lg8nhAQ==",
-        "notes": "Video guides: 14 how-to topics with Google Drive or YouTube links, English and Urdu steps"
+        "version": "3.101.413",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.413/myrishta-seo-helper-3.101.413.zip",
+        "sha256": "6e80091aeed3609969a0b035ee0f90d0ee075e4225cd566a607433934d892172",
+        "sig": "zRwZiDHsqbebzjHp+jqncjQ6nc+JIo78yOCo5IqsKBtWL1cY9GBrgkko0LTWj4LXFcwyfHHu1sl/pElELRZbDw==",
+        "notes": "Small video icons next to Forgot password, Log in, Sign up, Messenger, Password and Membership"
     },
     "theme": {
-        "version": "3.101.412",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.412/myrishta-theme-3.101.412.zip",
-        "sha256": "69257fd157bdbad9a1fddfea7b90e58279065e3bc6ea9a349967d83d51503b49",
-        "sig": "WHq9CVmYfdv5v7X7TAdOYChL1PUOCFGhdt6mJOtULfGNXveDLIecPliyb1KM7/eViu+FHk9cXln+rIoIBkuDAw==",
-        "notes": "Video guides: 14 how-to topics with Google Drive or YouTube links, English and Urdu steps"
+        "version": "3.101.413",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.413/myrishta-theme-3.101.413.zip",
+        "sha256": "bfe7e9299c8e5de0ae5c1474ac92b389fdac8e1c5fc85d809fb55771054356e0",
+        "sig": "shDE82f67RVYFdPFFe/SklskTpd+Qwi/3zMCMP6yYYv5o31mxaywsUG2Po0VzXKwTNbNlpY5PuJt0jUHT9bxCg==",
+        "notes": "Small video icons next to Forgot password, Log in, Sign up, Messenger, Password and Membership"
     }
 }
