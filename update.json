@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.414",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.414/myrishta-seo-helper-3.101.414.zip",
-        "sha256": "7b657eb4502ef29a952741a2c1bf74b5c989eb369f2b091430f6bd2e9def59d0",
-        "sig": "DHAZVkDqklQfpyHPnK52mm/Z9nkoSC32Z5HYFlVq4eT4cQJuF5TOs3bMt0BaezK+yzGprjvOK48nce3U80nVDA==",
-        "notes": "Video guides link in the footer"
+        "version": "3.101.415",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.415/myrishta-seo-helper-3.101.415.zip",
+        "sha256": "f85e969a68ebf46442671e51c17eb0d53f544ddc815c943ff87f712f594fa8ed",
+        "sig": "NXwwbEdpBQzEwg2X28uka0ZfmU4F+HtrO5+D1Odv+Zg9ctNaQJccWQtvZMEHJLLtK2q4344gOjdsjVsgwoKHCg==",
+        "notes": "Video guides: first tap always plays (works with cache delay), site colours"
     },
     "theme": {
-        "version": "3.101.414",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.414/myrishta-theme-3.101.414.zip",
-        "sha256": "a4666d6deff5658684e54708e0827a89ac63a6d32327f50056acc6812cd9bdcf",
-        "sig": "HvFpWlh12mn+kRJTNDLO9FhQelCbYs/mZjZv2xYxkT6XbGYm72K3nAEwpHsO2NtbOesW/SPv9RbsDY4gtAJ0Bw==",
-        "notes": "Video guides link in the footer"
+        "version": "3.101.415",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.415/myrishta-theme-3.101.415.zip",
+        "sha256": "28c5e9776b99471fe0965d6a515f400a993303af4d1fcd0d1ee7426462914636",
+        "sig": "ZZCuFtyG7bA94HihXj9kFjL86TGesgwTUXSYqgayKYSP5co73hcXajiy3EWsvyZYpBs3W9oqU/hFv5DM7amkDA==",
+        "notes": "Video guides: first tap always plays (works with cache delay), site colours"
     }
 }
