@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.410",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.410/myrishta-seo-helper-3.101.410.zip",
-        "sha256": "3f5c9f9383b46420cb6bfcf4e68b618d3458c1542b0d26c13c97bb370a4184dc",
-        "sig": "rdPIok9+SThmEOKfKttslNWrQyTuT0uLqY1RhixCGSCwaOHmX4yp5MqEXfXkQp1dEKPHZ1pbHPzQaS91B0oBDA==",
-        "notes": "Taller messenger, one quick-reply row"
+        "version": "3.101.411",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.411/myrishta-seo-helper-3.101.411.zip",
+        "sha256": "fe28b739abce38603f24f1574b54cbdd9e92bfb499339f06547d11183911c41c",
+        "sig": "sGimHw601fsLdCf3qa7VZFGt0RFQvNgyUFeob1IcKhKT+sWjC5OwlYeHy4IdNVs4c6bvheyQihFnFjCne4W+Bw==",
+        "notes": "Easier login: 6-character passwords, wrong-password pause is per member (not per shared phone address), 10 tries and 5 minutes"
     },
     "theme": {
-        "version": "3.101.410",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.410/myrishta-theme-3.101.410.zip",
-        "sha256": "2d7e6c9c23d4e9263b5cb013de742674929db2e0829826c6117717820e98c977",
-        "sig": "97L6ij5hsy4agRpt4X9bQK5XS5dCYWyfnuyYH0+0f+nShbOeZM7npA/Nel5dWbdtcX7zfLEvDz6jGSdPLxvTBg==",
-        "notes": "Taller messenger, one quick-reply row"
+        "version": "3.101.411",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.411/myrishta-theme-3.101.411.zip",
+        "sha256": "c4fa7a359e3ebfbab72d6979e8b311df1ac673f84df597ad4068c0af084a7dc2",
+        "sig": "H2rdFJHY3UiTFgfFIdoYS5rV95+5dOBi6iSCvUwmYGi2+9suAWwFz5FVvJuuICchdON2t3w1I3ZcQXGef81UCQ==",
+        "notes": "Easier login: 6-character passwords, wrong-password pause is per member (not per shared phone address), 10 tries and 5 minutes"
     }
 }
