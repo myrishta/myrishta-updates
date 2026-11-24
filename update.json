@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.411",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.411/myrishta-seo-helper-3.101.411.zip",
-        "sha256": "fe28b739abce38603f24f1574b54cbdd9e92bfb499339f06547d11183911c41c",
-        "sig": "sGimHw601fsLdCf3qa7VZFGt0RFQvNgyUFeob1IcKhKT+sWjC5OwlYeHy4IdNVs4c6bvheyQihFnFjCne4W+Bw==",
-        "notes": "Easier login: 6-character passwords, wrong-password pause is per member (not per shared phone address), 10 tries and 5 minutes"
+        "version": "3.101.412",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.412/myrishta-seo-helper-3.101.412.zip",
+        "sha256": "7af6153be46dbfc0ac3bd9ab41f915b9eeb4ed5213580d71dc79986d1487d661",
+        "sig": "Zh7WAoHmP/bdQXBt0TKQpknMJPJERs3obC5K+l9A3Yf+Ns2D0nkPq57s6us/Af90njRQqO+gXurDiu7Lg8nhAQ==",
+        "notes": "Video guides: 14 how-to topics with Google Drive or YouTube links, English and Urdu steps"
     },
     "theme": {
-        "version": "3.101.411",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.411/myrishta-theme-3.101.411.zip",
-        "sha256": "c4fa7a359e3ebfbab72d6979e8b311df1ac673f84df597ad4068c0af084a7dc2",
-        "sig": "H2rdFJHY3UiTFgfFIdoYS5rV95+5dOBi6iSCvUwmYGi2+9suAWwFz5FVvJuuICchdON2t3w1I3ZcQXGef81UCQ==",
-        "notes": "Easier login: 6-character passwords, wrong-password pause is per member (not per shared phone address), 10 tries and 5 minutes"
+        "version": "3.101.412",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.412/myrishta-theme-3.101.412.zip",
+        "sha256": "69257fd157bdbad9a1fddfea7b90e58279065e3bc6ea9a349967d83d51503b49",
+        "sig": "WHq9CVmYfdv5v7X7TAdOYChL1PUOCFGhdt6mJOtULfGNXveDLIecPliyb1KM7/eViu+FHk9cXln+rIoIBkuDAw==",
+        "notes": "Video guides: 14 how-to topics with Google Drive or YouTube links, English and Urdu steps"
     }
 }
