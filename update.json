@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.413",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.413/myrishta-seo-helper-3.101.413.zip",
-        "sha256": "6e80091aeed3609969a0b035ee0f90d0ee075e4225cd566a607433934d892172",
-        "sig": "zRwZiDHsqbebzjHp+jqncjQ6nc+JIo78yOCo5IqsKBtWL1cY9GBrgkko0LTWj4LXFcwyfHHu1sl/pElELRZbDw==",
-        "notes": "Small video icons next to Forgot password, Log in, Sign up, Messenger, Password and Membership"
+        "version": "3.101.414",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.414/myrishta-seo-helper-3.101.414.zip",
+        "sha256": "7b657eb4502ef29a952741a2c1bf74b5c989eb369f2b091430f6bd2e9def59d0",
+        "sig": "DHAZVkDqklQfpyHPnK52mm/Z9nkoSC32Z5HYFlVq4eT4cQJuF5TOs3bMt0BaezK+yzGprjvOK48nce3U80nVDA==",
+        "notes": "Video guides link in the footer"
     },
     "theme": {
-        "version": "3.101.413",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.413/myrishta-theme-3.101.413.zip",
-        "sha256": "bfe7e9299c8e5de0ae5c1474ac92b389fdac8e1c5fc85d809fb55771054356e0",
-        "sig": "shDE82f67RVYFdPFFe/SklskTpd+Qwi/3zMCMP6yYYv5o31mxaywsUG2Po0VzXKwTNbNlpY5PuJt0jUHT9bxCg==",
-        "notes": "Small video icons next to Forgot password, Log in, Sign up, Messenger, Password and Membership"
+        "version": "3.101.414",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.414/myrishta-theme-3.101.414.zip",
+        "sha256": "a4666d6deff5658684e54708e0827a89ac63a6d32327f50056acc6812cd9bdcf",
+        "sig": "HvFpWlh12mn+kRJTNDLO9FhQelCbYs/mZjZv2xYxkT6XbGYm72K3nAEwpHsO2NtbOesW/SPv9RbsDY4gtAJ0Bw==",
+        "notes": "Video guides link in the footer"
     }
 }
