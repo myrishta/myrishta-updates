@@ -1,16 +1,16 @@
 {
     "plugin": {
-        "version": "3.101.416",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.416/myrishta-seo-helper-3.101.416.zip",
-        "sha256": "0ef131aaef660a8289d079e9e9d70731597068ed4de3c462e0c5a06aa1cca805",
-        "sig": "4m9HumQ8sppdT1GomkNxsDwjGzQr+v0GkqNlfSnY1U/aYuPypqrFx2fFqOD2HvYth7CPFdqPNe2Ql43AZweYCA==",
-        "notes": "Weekly YouTube post writer: AI drafts a Community post, emails it, ticket, copy button"
+        "version": "3.101.440",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.440/myrishta-seo-helper-3.101.440.zip",
+        "sha256": "8c44adb081f0cdfd69a25bb0d4eeae9be8ecada3447db8921c8fa8546925d3ba",
+        "sig": "PASTE_SIGNATURE_HERE",
+        "notes": "Photo Guard: AI checks every profile photo and takes off nudity, couples, cartoons, screenshots and quote posters"
     },
     "theme": {
-        "version": "3.101.416",
-        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.416/myrishta-theme-3.101.416.zip",
-        "sha256": "c083aa0607e974e8104e32b61125ef897f2b1fd852d8fccffc23059964c4cf19",
-        "sig": "7QzAPdWyDlk5XhY6NoUbsQfWbuhatK3uGV2mfWgVgO3smUjQOxx3RYyU0g9/UsCo5AU9ietYjLjK9mU6KxSbAw==",
-        "notes": "Weekly YouTube post writer: AI drafts a Community post, emails it, ticket, copy button"
+        "version": "3.101.440",
+        "zip": "https://raw.githubusercontent.com/myrishta/myrishta-updates/main/releases/3.101.440/myrishta-theme-3.101.440.zip",
+        "sha256": "df75de6a23d6e9c3eb2a9a23e50b556b28b6283a43f50e9923938bf3c3d71316",
+        "sig": "PASTE_SIGNATURE_HERE",
+        "notes": "Version kept in step with the plugin"
     }
 }
